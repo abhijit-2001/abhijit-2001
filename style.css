@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 80vw;
+}
+.navbar{
+    display: flex;
+    height: 67px;
+}
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+}
+.topleft{
+    width: 50%;
+   padding: 12px 0;
+}
+.topright{
+    width: 50%;
+    height: 50vh;
+
+}
+.section1{
+    max-height: 50vh;
+    
+}
+
+.logo{
+    font-size: 1.3rem;
+}
+.section2{
+    padding-left: 63px;
+    padding-right: 63px;
+}
+.section2 h1{
+    font-size: 2rem;
+}
+.box{
+    padding: 8px 0;
+    margin: 12px 22px;
+    min-width: 18vw;
+    border: 2px solid rgb(56, 47, 154);
+    text-align: center;
+    border-radius: 10px;
+}
+.box h2{
+    padding: 15px 0;
+}
+.box ul{
+    list-style-type: none;
+}
+.box ul li{
+    margin: 12px 2px;
+}
+footer{
+    padding: 23px;
+    text-align: center;
+}
+.deal{
+    font-size: 1.2rem;
+    font-weight: bolder;
+    margin: 12px 0;
+}
+
+ 
+      
